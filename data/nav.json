@@ -1,0 +1,65 @@
+[{
+	"title": "系统管理",
+	"root": {
+		"children": [{
+			"text": "角色管理",
+			"leaf": true,
+			"url": "Role"
+		}, {
+			"text": "用户管理",
+			"leaf": true,
+			"url": "User"
+		}, {
+			"text": "部门管理",
+			"leaf": true,
+			"url": "Department"
+		}]
+	}
+}, {
+	"title": "文章管理",
+	"root": {
+		"children": [{
+			"text": "文章列表",
+			"leaf": true,
+			"url": ""
+		}, {
+			"text": "发布文章",
+			"leaf": true,
+			"url": ""
+		}]
+	}
+}, {
+	"title": "产品管理",
+	"root": {
+		"children": [{
+			"text": "产品列表",
+			"leaf": true,
+			"url": ""
+		}, {
+			"text": "新增产品",
+			"leaf": true,
+			"url": ""
+		}, {
+			"text": "产品监控",
+			"leaf": true,
+			"url": ""
+		}]
+	}
+}, {
+	"title": "报表管理",
+	"root": {
+		"children": [{
+			"text": "生成报表",
+			"leaf": true,
+			"url": ""
+		}, {
+			"text": "报表统计",
+			"leaf": true,
+			"url": ""
+		}, {
+			"text": "报表打印",
+			"leaf": true,
+			"url": ""
+		}]
+	}
+}]

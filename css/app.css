@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+/* global */
+html, body {font-size:14px;font-family:"microsoft yahei";}
+a {color:#006699;}
+.x-panel-header,
+.x-tree-node {font-family:"microsoft yahei";}
+.x-action-col-icon {margin:0px 3px;width:16px;height:16px;}
+
+/* login */
+.login-logo {display:block;margin:0px auto 20px auto;height:64px;}
+
+/* header */
+#header {}
+.main-logo {float:left;display:block;margin:5px 3px;height:30px;}
+.main-btn {float:right;margin:9px 5px 0 5px;}
+.main-btn .x-btn-mc {text-align:left;}
+
+/* footer */
+#footer {}
+#copyright {line-height:24px;text-align:center;font-size:12px;color:#333;}
+
+/* desktop */
+#Desktop .x-border-layout-ct {background-color:#fff;}
+.link-txt {display:inline-block;margin:5px 0px 0px 10px;color:#006699;}
+.link-txt:hover {text-decoration:underline;}
+.link-btn {margin:10px 0px 0px 10px;}
+
+.col-grid td {
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+/* icons */
+.x-btn-add {background-image:url("../img/icon-add.png");}
+.x-btn-edit {background-image:url("../img/icon-edit.png");}
+.x-btn-del {background-image:url("../img/icon-del.png");}
+.x-btn-search {background-image:url("../img/icon-search.png");}
+.x-btn-calculator {background-image:url("../img/icon-calculator.png");}
+.x-btn-calendar {background-image:url("../img/icon-calendar.png");}
+.x-btn-check {background-image:url("../img/icon-check.png");}
+.x-btn-clock {background-image:url("../img/icon-clock.png");}
+.x-btn-disc {background-image:url("../img/icon-disc.png");}
+.x-btn-download {background-image:url("../img/icon-download.png");}
+.x-btn-upload {background-image:url("../img/icon-upload.png");}
+.x-btn-file-search {background-image:url("../img/icon-file-search.png");}
+.x-btn-folder-add {background-image:url("../img/icon-folder-add.png");}
+.x-btn-users {background-image:url("../img/icon-users.png");}
+.x-btn-lock {background-image:url("../img/icon-lock.png");}
+.x-btn-mail-receive {background-image:url("../img/icon-mail-receive.png");}
+.x-btn-mail-send {background-image:url("../img/icon-mail-send.png");}
+.x-btn-mail-write {background-image:url("../img/icon-mail-write.png");}
+.x-btn-msg {background-image:url("../img/icon-msg.png");}
+.x-btn-pie {background-image:url("../img/icon-pie.png");}
+.x-btn-star {background-image:url("../img/icon-star.png");}
+.x-btn-user-add {background-image:url("../img/icon-user-add.png");}
+.x-btn-user-del {background-image:url("../img/icon-user-del.png");}
+.x-btn-volume {background-image:url("../img/icon-volume.png");}
+.x-btn-warn {background-image:url("../img/icon-warn.png");}
+.x-btn-save {background-image:url("../img/icon-save.png");}
+.x-btn-refresh {background-image:url("../img/icon-refresh.png");}
+.x-btn-file {background-image:url("../img/icon-file.png");}
+.x-btn-warning {background-image:url("../img/icon-warning.png");}
+.x-btn-user {background-image:url("../img/icon-user.png");}
+.x-btn-exit {background-image:url("../img/icon-exit.png");}
+.x-btn-up {background-image:url("../img/icon-arrow-up.png");}
+.x-btn-down {background-image:url("../img/icon-arrow-down.png");}
+.x-btn-help {background-image:url("../img/icon-help.png");}
+.x-btn-info {background-image:url("../img/icon-info.png");}
+.x-btn-undo {background-image:url("../img/icon-undo.png");}

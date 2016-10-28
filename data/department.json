@@ -1,0 +1,66 @@
+[{
+	"text": "公司A",
+	"type": "1",
+	"children": [{
+		"text": "研发部",
+		"type": "2",
+		"children": [{
+			"leaf": true,
+			"text": "Neo"
+		}, {
+			"leaf": true,
+			"text": "Shelly"
+		}, {
+			"leaf": true,
+			"text": "Will"
+		}]
+	}, {
+		"text": "市场部",
+		"type": "2",
+		"children": [{
+			"leaf": true,
+			"text": "Tina"
+		}, {
+			"leaf": true,
+			"text": "Kobe"
+		}]
+	}]
+}, {
+	"text": "公司B",
+	"type": "1",
+	"children": [{
+		"text": "财务部",
+		"type": "2",
+		"children": [{
+			"leaf": true,
+			"text": "James"
+		}, {
+			"leaf": true,
+			"text": "Scott"
+		}, {
+			"leaf": true,
+			"text": "Vincent"
+		}]
+	}]
+}, {
+	"text": "公司C",
+	"type": "1",
+	"children": [{
+		"text": "销售部",
+		"type": "2",
+		"children": [{
+			"leaf": true,
+			"text": "King"
+		}]
+	}, {
+		"text": "人事部",
+		"type": "2",
+		"children": [{
+			"leaf": true,
+			"text": "Kaka"
+		}, {
+			"leaf": true,
+			"text": "Jack"
+		}]
+	}]
+}]

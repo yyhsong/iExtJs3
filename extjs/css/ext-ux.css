@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/* ColumnHeaderGroup */
+td.ux-grid-hd-group-cell {
+    background: url("../images/default/grid/grid3-hrow.gif") repeat-x bottom;
+}
+td.ux-grid-hd-group-cell .x-grid3-hd-checker {display:none;}
+
+/* DatePickerPlus */
+.x-date-selected a,
+.x-datepickerplus-weekends,
+.x-datepickerplus-nationalholidays {border-color:#fff!important;background:#fff!important;}
