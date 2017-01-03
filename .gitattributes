@@ -1,0 +1,3 @@
+*.js linguist-language=ExtJS
+*.css linguist-language=ExtJS
+*.html linguist-language=ExtJS
