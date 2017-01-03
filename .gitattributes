@@ -1,3 +1,3 @@
-*.js linguist-language=ExtJS
-*.css linguist-language=ExtJS
-*.html linguist-language=ExtJS
+*.js linguist-language=JavaScript
+*.css linguist-language=JavaScriptS
+*.html linguist-language=JavaScript
